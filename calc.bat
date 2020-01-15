@@ -9,3 +9,5 @@ SET /A c = %b% / %a%
 echo %c% 
 SET /A c = %b% * %a% 
 echo %c%
+
+echo "try to trigger you!"
